@@ -3,7 +3,6 @@ call plug#begin()
 " List of plugins
 Plug 'morhetz/gruvbox'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-
 call plug#end()
 
 " Set colorscheme
@@ -18,8 +17,8 @@ set laststatus=2
 set relativenumber
 
 " Set tab and indentation settings
-set tabstop=2
-set shiftwidth=2
+set tabstop=4
+set shiftwidth=4
 set expandtab
 set smarttab
 set autoindent
