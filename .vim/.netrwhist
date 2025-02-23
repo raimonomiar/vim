@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/ayushkarki/Documents/personal/projects/pytools'
+let g:netrw_dirhist_3='/Users/ayushkarki/Documents/BRIO_dev/counting_tool'
+let g:netrw_dirhist_2='/Users/ayushkarki/Documents/BRIO_dev/counting_tool/kalman'
+let g:netrw_dirhist_1='/Users/ayushkarki/Documents/BRIO_dev/counting_tool'
+let g:netrw_dirhist_0='/Users/ayushkarki/Documents/BRIO_dev/counting_tool/kalman'
+let g:netrw_dirhist_9='/Users/ayushkarki/Documents/BRIO_dev/counting_tool'
+let g:netrw_dirhist_8='/Users/ayushkarki/Documents/BRIO_dev/counting_tool/kalman'
+let g:netrw_dirhist_7='/Users/ayushkarki/Documents/BRIO_dev/counting_tool'
+let g:netrw_dirhist_6='/Users/ayushkarki/Documents/BRIO_dev/counting_tool/kalman'
+let g:netrw_dirhist_5='/Users/ayushkarki/Documents/BRIO_dev/counting_tool'
